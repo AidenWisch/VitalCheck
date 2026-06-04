@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VitalCheck</string>
+    <string name="accessibility_service_description">VitalCheck uses this service to enforce app lockouts when health goals are not met. Blocked apps: Instagram, Snapchat, YouTube.</string>
+    <string name="notification_channel_name">VitalCheck Coach</string>
+    <string name="notification_channel_description">Personalized health coaching notifications</string>
+</resources>
